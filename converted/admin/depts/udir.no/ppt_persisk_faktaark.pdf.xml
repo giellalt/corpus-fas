@@ -1,81 +1,41 @@
-<document xml:lang="fas" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>784</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="fas"/>
-    </multilingual>
-    <origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_persisk_faktaark.pdf</origFileName>
-    <parallel_text xml:lang="eng" location="ppt_engelsk_faktaark.pdf"/>
-    <parallel_text xml:lang="nno" location="ppt_nynorsk-faktaark.pdf"/>
-    <parallel_text xml:lang="nob" location="ppt_norsk_bokmal_faktaark.pdf"/>
-    <parallel_text xml:lang="rus" location="ppt_russisk_faktaark.pdf"/>
-    <parallel_text xml:lang="sma" location="ppt_sorsamisk_faktaark.pdf"/>
-    <parallel_text xml:lang="sme" location="ppt_nordsamisk_faktaark.pdf"/>
-    <parallel_text xml:lang="smj" location="ppt_lulesamisk_faktaark.pdf"/>
-    <parallel_text location="ppt_arabisk_faktaark.pdf" xml:lang="ara"/>
-    <parallel_text location="ppt_vietnamesisk_faktaark.pdf" xml:lang="vie"/>
-    <parallel_text location="ppt_fransk_faktaark.pdf" xml:lang="fra"/>
-    <parallel_text location="ppt_sorani_faktaark.pdf" xml:lang="ckb"/>
-    <parallel_text location="ppt_urdu_faktaark.pdf" xml:lang="urd"/>
-    <parallel_text location="ppt_somalisk_faktaark.pdf" xml:lang="som"/>
-    <parallel_text location="ppt_tyrkisk_faktaark.pdf" xml:lang="tur"/>
-    <parallel_text location="ppt_polsk_faktaark.pdf" xml:lang="pol"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob"><em type="italic">U</em><em type="bold">ﯽﺗﻳﺑﺭﺗ ﺭﻭﻣﺍ ﻭ ﯽﺳﺎﻧﺷ ﻥﺍﻭﺭ ﺕﺎﻣﺩﺧ ﺩﺭﻭﻣ ﺭﺩ ﯽﺗﺎﻋﻼﻁﺍ </em></p>
-    <p xml:lang="nob"><em type="bold">(PPTﺕﺎﻣﺩﺧ ﻥﺍﻭﺭ ﯽﺳﺎﻧﺷ ﻭ ﺭﻭﻣﺍ ﯽﺗﻳﺑﺭﺗ ) </em></p>
-    <p xml:lang="nob">یﺍ ﻩﺭﻭﺎﺷﻣ ﺕﻣﺩﺧ ﮏﻳ (ﺩﻭﺷﻳﻣ ﻩﺩﻳﻣﺎﻧ PP -  ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ ﺎﻳ PPTﺭﺎﺻﺗﺧﺍ ﻪﺑ ﺏﻠﻏﺍ ﻪﮐ ﺕﺎﻣﺩﺧ ﯽﺗﻳﺑﺭﺗ ﺭﻭﻣﺍ ﻭ ﯽﺳﺎﻧﺷ ﻥﺍﻭﺭ )</p>
-    <p xml:lang="nob">.ﺩﺷﺎﺑ ﯽﻣ ﻥﺎﺗﺳﺍ ﺎﻳ ﺭﻬﺷ ﺢﻁﺳ ﺭﺩ  ﺕﻳﻌﺿﻭ ﮏﻳ ﺭﺩ ﺎﻳ ﻭ ﺩﻧﺭﺍﺩ یﺩﺷﺭ ﻝﮑﺷﻣ ﻪﮐ ﯽﻧﻻﺎﺳﮔﺭﺯﺑ ﻭ ﻥﺎﻧﺍﻭﺟ ،ﻥﺎﮐﺩﻭﮐ ﻪﺑ ﺩﻳﺎﺑ ﻥﺎﮔﺭﺍ ﻥﻳﺍ .ﺩﻧﮐ ﮏﻣﮐ ،ﺩﻧﺭﺍﺩ ﺭﺍﺭﻗ ﯽﺷﺯﻭﻣﺁ ﺭﺍﻭﺷﺩ</p>
-    <p xml:lang="nob">ﺎﻬﻧﺎﺗﺳﮐﺩﻭﮐ ﺱﺭﺍﺩﻣﻭ ﺍﺭ ،ﺩﻧﺭﺍﺩ ﺯﺎﻳﻧ ﻪﮐ ﯽﻧﺍﺯﻭﻣﺁ ﺵﻧﺍﺩ / ﻥﺎﮐﺩﻭﮐ یﺍﺭﺑ ﻪﻣﺯﻻ ﺕﻼﻳﻬﺳﺗ ﺩﺎﺟﻳﺍ ﺩﺭﻭﻣ ﺭﺩ  PP - ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ  ﯽﻳﺎﻣﻧﻫﺍﺭ ﻳﻣﺩﻧﮑ.</p>
-    <p xml:lang="nob">.ﺩﻫﺩ ﯽﻣ یﺭﺎﻳ ،ﺩﻧﺭﺍﺩ ﻩژﻳﻭ یﺎﻫﺯﺎﻳﻧ ﻪﮐ ﯽﻧﺍﺯﻭﻣﺁ ﺵﻧﺍﺩ ﺵﺯﻭﻣﺁ ۀﻭﺣﻧ ﺩﻭﺑﻬﺑ ﺕﻬﺟ ﺭﺩ ﺱﺭﺍﺩﻣ ﻪﺑ PP - ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ</p>
-    <p xml:lang="nob">ﻪﻔﻳﻅﻭ  یﺭﺍﺩﺯﺍﺭ ﻭ ﻕﺣ ﺕﻭﮑﺳ ﺍﺭ ﺩﺭﺍﺩ ﯽﻫﺎﮔﺁ ﺽﺭﻌﻣ ﺭﺩ ﺯﻭﻣﺁ ﺵﻧﺍﺩ / کﺩﻭﮐ ﺩﺭﻭﻣ ﺭﺩ ﺕﺎﻣﻭﻠﻌﻣ .  PP - ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ</p>
-    <p xml:lang="nob">ﺯﺍ ﻩﺯﺎﺟﺍ ﺏﺳﮐ ﻥﻭﺩﺑ ﻭ ﺩﺭﻳﮔ ﯽﻣﻧ ﺭﺍﺭﻗ ﻡﻭﻣﻋ ﻥﺍﻭﺗﻳﻣﻧ ﻥﻳﺩﻟﺍﻭ .ﺩﺍﺩ ﻥﺍﺭﮕﻳﺩ ﻪﺑ ﯽﺗﺎﻋﻼﻁﺍﺕﺎﻣﻭﻠﻌﻣ ﺭﺩ ﺩﺭﻭﻣ کﺩﻭﮐ  /ﺵﻧﺍﺩ ﺯﻭﻣﺁ  ﻕﺑﻁ یﺎﻬﻠﻣﻌﻟﺍﺭﻭﺗﺳﺩ ﻩﺭﺩﺎﺻ ﺯﺍ  ﻑﺭﻁﺯﮐﺭﻣ ﺕﻅﺎﻔﺣ ،ﺕﺎﻋﻼﻁﺍ ﺭﺩ ﻝﺎﻧﺭﻭژ ﺹﻭﺻﺧﻣ ﺵﺩﻭﺧ یﺭﺍﺩﻬﮕﻧ ﺩﻭﺷﻳﻣ.</p>
-    <p xml:lang="nob"><em type="bold"> ؟ﺩﻫﺩ ﯽﻣ ﻡﺎﺟﻧﺍ یﺭﺎﮐ ﻪﭼ PP - ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ </em></p>
-    <p xml:lang="nob">،ﺩﻧﺭﺍﺩ ﻝﻳﺫ ﻝﺋﺎﺳﻣ ﺩﺭﻭﻣ ﺭﺩ ﯽﻳﺎﻬﺷﻟﺎﭼ ﻪﮐ ﻥﻻﺎﺳﮔﺭﺯﺑ ﻭ ﻥﺎﻧﺍﻭﺟ ،ﻥﺎﮐﺩﻭﮐ ﺩﺭﻭﻣ ﺭﺩ ﻭ ﻩﺩﺭﮐ ﯽﺳﺭﺭﺑ ﺍﺭ ﻝﮑﺷﻣ PP - ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ</p>
-    <p xml:lang="nob">ﻩﺭﻭﺎﺷﻣ ﻭ ﯽﻳﺎﻣﻧﻫﺍﺭ ﺍﺭ ﻪﻣﺯﻻ.ﺩﻧﮐ ﯽﻣ</p>
-    <p xml:lang="nob">  <em type="bold"> .</em>  ﺕﻼﮑﺷﻣ ﻥﺎﺑﺯ ﻭ یﺭﺎﺗﻔﮔ<em type="bold"> </em></p>
-    <p xml:lang="nob"><em type="bold">.   </em>  ﺕﻼﮑﺷﻣ ﯽﻟﻭﻣﻌﻣ یﺭﻳﮔﺩﺎﻳ ﺎﻳ ﺕﻼﮑﺷﻣ ﯽﺻﺻﺧﺗ <em type="bold">.   </em>  ﺕﻼﮑﺷﻣ ﻥﺩﻧﺍﻭﺧ ﻭ ﻥﺗﺷﻭﻧ <em type="bold">.</em>      ﻣﺕﻼﮑﺷ ﺭﺩ ﯽﺿﺎﻳﺭ <em type="bold">.  </em>   ﺕﻼﮑﺷﻣ یﺯﮐﺭﻣﺗ <em type="bold">.   </em>  ﺕﻼﮑﺷﻣ ﯽﻔﻁﺎﻋ ﻭ ﯽﻋﺎﻣﺗﺟﺍ <em type="bold">.    </em>  ﺕﻼﮑﺷﻣ یﺭﺎﺗﻓﺭ <em type="bold">.    </em>  ﺕﻼﮑﺷﻣ ﺩﻳﺩ ﻭ ﯽﻳﺍﻭﻧﺷ </p>
-    <p xml:lang="nob"><em type="bold"> ؟ﺩﻳﺭﻳﮕﺑ ﺱﺎﻣﺗ PP –ﺎﻣﺷ ﻥﺍﻭﻧﻋ ﻪﺑ  ﻥﻳﺩﻟﺍﻭﻪﻧﻭﮕﭼ ﯽﻣ ﺩﻳﻧﺍﻭﺗ ﺎﺑ ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ </em></p>
-    <p xml:lang="nob">ﺩ ﯽﻧﺍﺭﮕﻧ ﺕﺑﺎﺑ ﺯﺍ ﻪﮐ ﺕﺳﺍ ﺭﺗﻬﺑ/ ﺕﺷﺍﺩﻬﺑ ﺯﮐﺭﻣ ﺎﺑ ﻥﺎﺗﺩﻧﺯﺭﻓ ﺩﺭﻭﻣ ﺭ / کﺩﻭﮐ ﺩﻬﻣ  PP -ﻝﺑﻗ ﺯﺍ  ﺱﺎﻣﺗﺎﺑ ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ  .ﺩﻧﺭﻳﮕﺑ ﺱﺎﻣﺗ PP -ﻪﺳﺭﺩﻣ ﺕﺑﺣﺻ ﺩﻳﻧﮐ .ﺵﻧﺍﺩ ﯽﻧﺍﺯﻭﻣﺁ ﺯﻳﻧ ﻪﮐ ﺯﺗﺷﻳﺑ ﺯﺍ  ﻝﺎﺳ ﺭﻣﻋ ،ﺩﻧﺭﺍﺩ ﺩﻧﻧﺍﻭﺗﻳﻣ ﺎﺑ ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ  .ﺩﻧﮐ ﯽﻣ ﮏﻣﮐ ﺯﻳﻧ ﺩﻧﺗﺳﻫ ۀﺭﻭﺩ ﺵﺯﻭﻣﺁ ﻥﺗﻓﺭﮔ ﻪﺑ ﻝﻳﺎﻣ ﻪﮐ ﯽﻧﻻﺎﺳﮔﺭﺯﺑ ﻪﺑ PP -ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ</p>
-    <p xml:lang="nob">PP -ﻡﻫ ﺹﺎﺧﺷﺍ ﻭ ﻡﻫ ﺎﻬﻧﺎﮔﺭﺍ )ﺩﻬﻣ ،کﺩﻭﮐ ﻪﺳﺭﺩﻣ ﻭ ﻩﺭﻳﻏ (ﯽﻣ ﺩﻧﻧﺍﻭﺗ ﺭﻭﻁﺑ ﺱﺎﻧﺷﺎﻧ ﺱﺎﻣﺗ ﻪﺗﻓﺭﮔ ﻭ ﺯﺍ ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ .ﺩﻧﺭﻳﮕﺑ ﯽﻳﺎﻣﻧﻫﺍﺭ</p>
-    <p xml:lang="nob">.ﺩﺎﺗﺳﺭﻓ PP -   ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ ﻪﺑ ﺍﺭ ﺯﻭﻣﺁ ﺵﻧﺍﺩ / کﺩﻭﮐ ﻥﺍﻭﺗﻳﻣ ،ﺩﺷﺎﺑ PP - ﺭﮔﺍ ﺯﺎﻳﻧ ﻪﺑ ﮏﻣﮐ یﺭﺗﺷﻳﺑ ﺯﺍ ﻑﺭﻁ ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ</p>
-    <p xml:lang="nob">ﻷﻭﻣﻌﻣ ﺯﻳﻧ ﺭﺎﮑﻧﻳﺍ  ﻥﺎﺗﺗﻣﺎﻗﺍ ﻝﺣﻣ ﻥﺎﺗﺳﺍ / یﺭﺍﺩﺭﻬﺷ ﯽﺗﻧﺭﺗﻧﻳﺍ ﺕﻳﺎﺳ ﻪﺑ ،ﺩﺭﻳﮔ ﯽﻣ ﺕﺭﻭﺻ ﻉﺎﺟﺭﺍ ﺹﻭﺻﺧﻣ ﻡﺭﻓ ﻥﺩﺭﮐ ﺭﭘ ﺎﺑ</p>
-    <p xml:lang="nob">.ﺩﻳﺋﺎﻣﻧ ﻪﻌﺟﺍﺭﻣ .ﺩﻳﺭﻳﮕﺑ ﺱﺎﻣﺗ ﻪﺳﺭﺩﻣ / کﺩﻭﮐﺩﻬﻣ ﺎﺑ ﻉﺎﺟﺭﺍ ﻡﺭﻓ ﻥﻳﺍ ﻥﺩﺭﮐﺭﭘ ﺕﻬﺟ ﮏﻣﮐ ﻥﺗﻓﺭﮔ یﺍﺭﺑ</p>
-    <p xml:lang="nob">     :ﺩﻧﺭﻳﮕﺑ ﺱﺎﻣﺗ PP –<em type="bold"> </em> ﺯﮐﺭﻣﺕﺎﻣﺩﺧ<em type="bold"> </em>ﺎﺑ ﺩﻧﻧﺍﻭﺗﻳﻣ ﻪﮐ یﺭﮕﻳﺩ یﺎﻬﻧﺎﻣﺯﺎﺳ<em type="bold">   </em></p>
-    <p xml:lang="nob"><em type="bold">   .</em> ،کﺩﻭﮐ ﺩﻬﻣ.ﻥﻻﺎﺳﮔﺭﺯﺑ ﺵﺯﻭﻣﺁ ﺯﮐﺭﻣ ﻭ ﻪﺳﺭﺩﻣ <em type="bold">   .</em> ﺭﻳﺯ ﺯﻭﻣﺁ ﺵﻧﺍﺩ / کﺩﻭﮐ ﻪﮐ ﯽﺗﺭﻭﺻ ﺭﺩ ﻥﻳﺩﻟﺍﻭ ﺕﻳﺎﺿﺭ ﺎﺑ ﻥﺎﺗﺳﺭﺎﻣﻳﺑ ﻭ ﺕﺷﺍﺩﻬﺑ ﺯﮐﺭﻣ .ﺩﺷﺎﺑ ﻝﺎﺳ </p>
-    <p xml:lang="nob">ﺵﻧﺍﺩ ﺯﻭﻣﺁ ﺎﻳ ﻥﻳﺩﻟﺍﻭ ﺩﻧﻧﺍﻭﺗﻳﻣ ﺯﺍ ﻪﺳﺭﺩﻣ ﺩﻧﻫﺍﻭﺧﺑ ﯽﺳﺭﺭﺑ یﺎﻫ ﻪﻣﺯﻻ ﺍﺭ ﻡﺎﺟﻧﺍ ﺩﻫﺩ یﺍﺭﺑ ﻪﮑﻧﻳﺍ ﺹﺧﺷﻣ ﺩﻭﺷ ﻪﮐ ﺎﻳﺁ ﺵﻧﺍﺩ ﺯﻭﻣﺁ ﺯﺎﻳﻧ</p>
-    <p xml:lang="nob">ﻪﺑ  ﺱﻳﺭﺩﺗ ﻩژﻳﻭ ،ﺩﺭﺍﺩ ﻭ ﺭﺩ ﺕﺭﻭﺻ ﻝﺎﻣﺗﺣﺍ ﻪﭼ ﻉﻭﻧ ﯽﺷﺯﻭﻣﺁ ﻥﻳﺍ ﺵﻧﺍﺩ ﺯﻭﻣﺁ ﺯﺎﻳﻧ ﺩﺭﺍﺩ.</p>
-    <p xml:lang="nob"><em type="bold">ﺷﺎﺑ ﯽﻣ ﻪﻧﻭﮕﭼ؟ﺩ  PP - ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ ﺭﺎﮐ ۀﻭﺣﻧ </em></p>
-    <p xml:lang="nob">ﺩﺭﺍﺩ یﺭﺎﮑﻣﻫ ﺎﻬﻧﺁ ﺎﺑ ﺱﺭﺍﺩﻣ ﻭ ﺎﻬﮐﺩﻭﮐ ﺩﻬﻣ ﻥﺍﻭﺗﻳﻣ ﺩ ﻪﮐ ﺩﺭﺑ ﻡﺎﻧ ﺍﺭﮥﻧﻳﻣﺯ ﺭ  ﻝﻳﻬﺳﺗ   PP - ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ ﻪﮐ ﯽﻳﺎﻬﻧﺎﮔﺭﺍ ﺯﺍ  یﺎﻫﺯﺎﻳﻧ ﻭ ﯽﻧﻳﺑ ﺵﻳﭘ ﺱﺎﺳﺍ ﺭﺑ ﺕﺎﻧﺎﮑﻣﺍ ﮥﺋﺍﺭﺍﺯﻭﻣﺁ ﺵﻧﺍﺩ / کﺩﻭﮐ .ﺩﻧﮐ ﯽﻣ یﺭﺎﮑﻣﻫ ﺎﻬﻧﺁ ﺎﺑ ،ﯽﺳﺭﺭﺑ ﻩﺩﻧﻭﺭﭘ ﺭﺩ ﺯﮐﺭﻣ   ﺭﺩ ﻪﺳ ﻪﻠﺣﺭﻣ ﺕﺭﻭﺻ ﯽﻣ ﺩﺭﻳﮔ: PP - ﺕﺎﻣﺩﺧ</p>
-    <p xml:lang="nob"><em type="bold">   ﻥﺩﺭﮐ ﯽﺳﺭﺭﺑ ﻭ ﻕﻳﻘﺣﺗ </em></p>
-    <p xml:lang="nob">ﻩﺩﻧﻭﺭﭘ  ﯽﺷﺭﺍﺯﮔ /ﺍﺭ ﺕﻓﺎﻳﺭﺩ ،ﺩﺭﮐ ﺹﺧﺷﻣ ﯽﻣ ﺩﺩﺭﮔﺩ ﻪﮐ ﻥﻳﺩﻟﺍﻭ ﺎﺑ یﺭﺎﮑﻣﻫ ﻥﺎﺗﺳﮐﺩﻭﮐ PP –ﺄﺗﺩﻋﺎﻗ ﺱﭘ ﺯﺍ ﻪﮑﻧﻳﺍ ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ</p>
-    <p xml:lang="nob">ﻥﺎﮑﻣﺍ ﺩﺣ ﺎﺗ PP -ﺎﻳ ،ﻪﺳﺭﺩﻣ ﻥﺎﻫﺍﻭﺧ ﻪﭼ ﻉﻭﻧ ﯽﮑﻣﮐ ﺩﻧﺗﺳﻫ. ﻥﺩﺭﮐ ﺕﺳﺗ ﻭ ﻩﺩﻫﺎﺷﻣ ،ﻪﺑﺣﺎﺻﻣ / ﻭﮕﺗﻔﮔ ﻕﻳﺭﻁ ﺯﺍ ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ .ﺩﺭﻭﺁ ﯽﻣ ﺕﺳﺩﺑ ﺯﻭﻣﺁ ﺵﻧﺍﺩ / کﺩﻭﮐ ﯽﺗﺁ ﻭ ﻝﺎﺣ یﺎﻫﺯﺎﻳﻧ ﺯﺍ ﯽﻠﻣﺎﮐ ﺭﻳﻭﺻﺗ ﻡﺎﺟﻧﺍ ﺩﺭﻳﮕﻳﻣ. PP –ﻥﻳﺍ ﻕﻳﻘﺣﺗ ﻭ ﯽﺳﺭﺭﺑ ﺭﺩ ،ﻥﺎﺗﺳﮐﺩﻭﮐ ﻪﺳﺭﺩﻣ ﺎﻳ ﺭﺩ ﺯﮐﺍﺭﻣ ﺕﺎﻣﺩﺧ</p>
-    <p xml:lang="nob"><em type="bold">    ﻪﻳﺻﻭﺗ / ﻪﻧﺎﺳﺎﻧﺷﺭﺎﮐ ﯽﺑﺎﻳﺯﺭﺍﻥﺩﺭﮐ </em></p>
-    <p xml:lang="nob"> ،ﻩﺩﺷ ﻡﺎﺟﻧﺍ یﺎﻬﻳﺳﺭﺭﺑ ﻭ ﺕﺎﻘﻳﻘﺣﺗ ﺱﺎﺳﺍ ﺭﺑﯽﺑﺗﮐ ﺵﺭﺍﺯﮔ ﮏﻳ ﺕﺭﻭﺻ ﻪﺑ یﺍ ﻪﻧﺎﺳﺎﻧﺷﺭﺎﮐ ﯽﺑﺎﻳﺯﺭﺍ PP –ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ ﻭ ﺩﻫﺩ ﯽﻣ ﻡﺎﺟﻧﺍ<em type="bold"> </em>یﺎﻬﻳﻧﻳﺑ ﺵﻳﭘ ﻥﺗﻓﺭﮔ ﺭﻅﻧ ﺭﺩ ﺎﺑ ﯽﺷﺯﻭﻣﺁ ﺕﻳﻌﺿﻭ ﺎﻳ ﻥﺎﺗﺳﮐﺩﻭﮐ ﺭﺩ ﯽﻟﺎﻣﺗﺣﺍ یﺎﻬﮑﻣﮐ  ﮥﺋﺍﺭﺍ ﻝﻳﻬﺳﺗ ﺩﺭﻭﻣ ﺭﺩ  ﻥﻳﺭﺗﻟﻭﺍﺩﺗﻣ .ﺩﻫﺩ ﯽﻣ ﻪﺋﺍﺭﺍ ﯽﺳﺎﻧﺷﺭﺎﮐ ۀﺭﻭﺎﺷﻣ PPTﻡﺎﭼﻧﺍ ﻩﺩﺷ یﺍﺭﺑ کﺩﻭﮐ  /ﺵﻧﺍﺩ ،ﺯﻭﻣﺁ ﻪﻳﺻﻭﺗ یﺎﻫ ﻪﻣﺯﻻ ﺍﺭ ﯽﻣ ﺩﻧﮐ .<em type="bold">  </em></p>
-    <p xml:lang="nob">ﮏﻣﮐ ﯽﺑﺎﻳﺯﺭﺍ ﺭﺎﮑﻧﻳﺍ ﻉﻭﻧﺯﻭﻣﺁیﺍﺭﺑ ﺹﻭﺻﺧﻣ ﺱﻳﺭﺩﺗ ﻭ ﻥﺗﻓﺭ ﻪﺳﺭﺩﻣ ﯽﻧﻭﻧﺎﻗ ﻥﺳ ﺭﻳﺯ ﻥﺎﮐﺩﻭﮐ یﺍﺭﺑ ﻩژﻳﻭ ﯽﺷ ﻥﺍﺯﻭﻣﺁ ﺵﻧﺍﺩ .ﺩﺷﺎﺑ ﯽﻣ</p>
-    <p xml:lang="nob"><em type="bold">      یﺭﻳﮕﻳﭘ </em></p>
-    <p xml:lang="nob">/ ﯽﻳﺎﻣﻧﻫﺍﺭ ﻕﻳﺭﻁ ﺯﺍ ﻥﻳﻣﻠﻌﻣ ﻭ ﻥﺎﺗﺳﮐﺩﻭﮐ ﻥﺎﻧﮐﺭﺎﮐ ،ﻥﻳﺩﻟﺍﻭ ﺎﺑ ﻥﺩﺭﮐ ﻩﺭﻭﺎﺷﻣ.PP – ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ  ﺩﻧﺍﻭﺗﻳﻣ ﺕﻬﺟ ﺕﻳﺎﻣﺣ ﺎﺑ ﺭﻫ ﺵﻧﺍﺩ ﺯﻭﻣﺁ ﺕﺑﺣﺻ  PP – ،ﻪﺳﺭﺩﻣ ﻪﻠﺋﺳﻣ ﺍﺭ یﺭﻳﮕﻳﭘ ﯽﻣ ﺩﻧﮐ .ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ</p>
-    <p xml:lang="nob">ﺩﺭﻭﻣ ﺭﺩ ﻭ ﺩﻧﮐﯽﺗﺁ ﯽﻟﺎﻣﺗﺣﺍ ﻝﺎﺳﺭﺍ .ﺩﻧﻧﮐ یﺭﻳﮕﻣﻳﻣﺻﺗ</p>
-    <p xml:lang="nob">یﺎﻬﻓﺍﺭﮔﺍﺭﺎﭘ ﺭﺩ ﻪﻠﻣﺟ ﺯﺍ ،ﺕﺳﺍ ﻩﺩﺷ ﺭﮐﺫ ﺵﺭﻭﺭﭘ ﻭ ﺵﺯﻭﻣﺁ ﻥﻭﻧﺎﻗ ﺭﺩ :ﺭﻳﺯ.PP – ﻑﻳﺎﻅﻭ ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ</p>
-    <p xml:lang="nob">ﻩژﻳﻭ ﺱﻳﺭﺩﺗ ﻥﺗﺷﺍﺩ ﻕﺣ § 5- 1</p>
-    <p xml:lang="nob">ﻪﻧﺎﺳﺎﻧﺷﺭﺎﮐ ﯽﺑﺎﻳﺯﺭﺍ § 5- 3</p>
-    <p xml:lang="nob">ﺩﺭﺍﻭﻣ یﺎﻬﻫﺩﻧﻭﺭﭘ ﯽﺳﺭﺭﺑ    ﻩژﻳﻭ ﺱﻳﺭﺩﺗ ﻥﺩﺍﺩ§ 5- 4</p>
-    <p xml:lang="nob">ﯽﺗﻳﺑﺭﺗ ﺭﻭﻣﺍ ﻭ ﯽﺳﺎﻧﺷﻧﺍﻭﺭ ﺕﺎﻣﺩﺧ  § 5- 6</p>
-    <p xml:lang="nob">ﺩﻧﺍ ﻩﺩﻳﺳﺭ ﻥﺗﻓﺭ ﻪﻳﺭﺩﻣ ﯽﻧﻭﻧﺎﻗ ﻥﺳ ﻪﺑ ﻪﮐ ﯽﻧﺎﮐﺩﻭﮐ یﺍﺭﺑ ﯽﺷﺭﻭﺭﭘ ۀژﻳﻭ ﮏﻣﮐ § 5- 7</p>
-  </body>
-</document>
+<document xml:lang="fas" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>784</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="fas"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_persisk_faktaark.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_faktaark.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-faktaark.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_faktaark.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_faktaark.pdf"/><parallel_text xml:lang="sma" location="ppt_sorsamisk_faktaark.pdf"/><parallel_text xml:lang="sme" location="ppt_nordsamisk_faktaark.pdf"/><parallel_text xml:lang="smj" location="ppt_lulesamisk_faktaark.pdf"/><parallel_text location="ppt_arabisk_faktaark.pdf" xml:lang="ara"/><parallel_text location="ppt_vietnamesisk_faktaark.pdf" xml:lang="vie"/><parallel_text location="ppt_fransk_faktaark.pdf" xml:lang="fra"/><parallel_text location="ppt_sorani_faktaark.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_faktaark.pdf" xml:lang="urd"/><parallel_text location="ppt_somalisk_faktaark.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_faktaark.pdf" xml:lang="tur"/><parallel_text location="ppt_polsk_faktaark.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob"><em type="italic">U</em><em type="bold">ﯽﺗﻳﺑﺭﺗ ﺭﻭﻣﺍ ﻭ ﯽﺳﺎﻧﺷ ﻥﺍﻭﺭ ﺕﺎﻣﺩﺧ ﺩﺭﻭﻣ ﺭﺩ ﯽﺗﺎﻋﻼﻁﺍ </em></p>
+<p xml:lang="nob"><em type="bold">(PPTﺕﺎﻣﺩﺧ ﻥﺍﻭﺭ ﯽﺳﺎﻧﺷ ﻭ ﺭﻭﻣﺍ ﯽﺗﻳﺑﺭﺗ ) </em></p>
+<p xml:lang="nob">یﺍ ﻩﺭﻭﺎﺷﻣ ﺕﻣﺩﺧ ﮏﻳ (ﺩﻭﺷﻳﻣ ﻩﺩﻳﻣﺎﻧ PP -  ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ ﺎﻳ PPTﺭﺎﺻﺗﺧﺍ ﻪﺑ ﺏﻠﻏﺍ ﻪﮐ ﺕﺎﻣﺩﺧ ﯽﺗﻳﺑﺭﺗ ﺭﻭﻣﺍ ﻭ ﯽﺳﺎﻧﺷ ﻥﺍﻭﺭ )</p>
+<p xml:lang="nob">.ﺩﺷﺎﺑ ﯽﻣ ﻥﺎﺗﺳﺍ ﺎﻳ ﺭﻬﺷ ﺢﻁﺳ ﺭﺩ  ﺕﻳﻌﺿﻭ ﮏﻳ ﺭﺩ ﺎﻳ ﻭ ﺩﻧﺭﺍﺩ یﺩﺷﺭ ﻝﮑﺷﻣ ﻪﮐ ﯽﻧﻻﺎﺳﮔﺭﺯﺑ ﻭ ﻥﺎﻧﺍﻭﺟ ،ﻥﺎﮐﺩﻭﮐ ﻪﺑ ﺩﻳﺎﺑ ﻥﺎﮔﺭﺍ ﻥﻳﺍ .ﺩﻧﮐ ﮏﻣﮐ ،ﺩﻧﺭﺍﺩ ﺭﺍﺭﻗ ﯽﺷﺯﻭﻣﺁ ﺭﺍﻭﺷﺩ</p>
+<p xml:lang="nob">ﺎﻬﻧﺎﺗﺳﮐﺩﻭﮐ ﺱﺭﺍﺩﻣﻭ ﺍﺭ ،ﺩﻧﺭﺍﺩ ﺯﺎﻳﻧ ﻪﮐ ﯽﻧﺍﺯﻭﻣﺁ ﺵﻧﺍﺩ / ﻥﺎﮐﺩﻭﮐ یﺍﺭﺑ ﻪﻣﺯﻻ ﺕﻼﻳﻬﺳﺗ ﺩﺎﺟﻳﺍ ﺩﺭﻭﻣ ﺭﺩ  PP - ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ  ﯽﻳﺎﻣﻧﻫﺍﺭ ﻳﻣﺩﻧﮑ.</p>
+<p xml:lang="nob">.ﺩﻫﺩ ﯽﻣ یﺭﺎﻳ ،ﺩﻧﺭﺍﺩ ﻩژﻳﻭ یﺎﻫﺯﺎﻳﻧ ﻪﮐ ﯽﻧﺍﺯﻭﻣﺁ ﺵﻧﺍﺩ ﺵﺯﻭﻣﺁ ۀﻭﺣﻧ ﺩﻭﺑﻬﺑ ﺕﻬﺟ ﺭﺩ ﺱﺭﺍﺩﻣ ﻪﺑ PP - ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ</p>
+<p xml:lang="nob">ﻪﻔﻳﻅﻭ  یﺭﺍﺩﺯﺍﺭ ﻭ ﻕﺣ ﺕﻭﮑﺳ ﺍﺭ ﺩﺭﺍﺩ ﯽﻫﺎﮔﺁ ﺽﺭﻌﻣ ﺭﺩ ﺯﻭﻣﺁ ﺵﻧﺍﺩ / کﺩﻭﮐ ﺩﺭﻭﻣ ﺭﺩ ﺕﺎﻣﻭﻠﻌﻣ .  PP - ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ</p>
+<p xml:lang="nob">ﺯﺍ ﻩﺯﺎﺟﺍ ﺏﺳﮐ ﻥﻭﺩﺑ ﻭ ﺩﺭﻳﮔ ﯽﻣﻧ ﺭﺍﺭﻗ ﻡﻭﻣﻋ ﻥﺍﻭﺗﻳﻣﻧ ﻥﻳﺩﻟﺍﻭ .ﺩﺍﺩ ﻥﺍﺭﮕﻳﺩ ﻪﺑ ﯽﺗﺎﻋﻼﻁﺍﺕﺎﻣﻭﻠﻌﻣ ﺭﺩ ﺩﺭﻭﻣ کﺩﻭﮐ  /ﺵﻧﺍﺩ ﺯﻭﻣﺁ  ﻕﺑﻁ یﺎﻬﻠﻣﻌﻟﺍﺭﻭﺗﺳﺩ ﻩﺭﺩﺎﺻ ﺯﺍ  ﻑﺭﻁﺯﮐﺭﻣ ﺕﻅﺎﻔﺣ ،ﺕﺎﻋﻼﻁﺍ ﺭﺩ ﻝﺎﻧﺭﻭژ ﺹﻭﺻﺧﻣ ﺵﺩﻭﺧ یﺭﺍﺩﻬﮕﻧ ﺩﻭﺷﻳﻣ.</p>
+<p xml:lang="nob"><em type="bold"> ؟ﺩﻫﺩ ﯽﻣ ﻡﺎﺟﻧﺍ یﺭﺎﮐ ﻪﭼ PP - ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ </em></p>
+<p xml:lang="nob">،ﺩﻧﺭﺍﺩ ﻝﻳﺫ ﻝﺋﺎﺳﻣ ﺩﺭﻭﻣ ﺭﺩ ﯽﻳﺎﻬﺷﻟﺎﭼ ﻪﮐ ﻥﻻﺎﺳﮔﺭﺯﺑ ﻭ ﻥﺎﻧﺍﻭﺟ ،ﻥﺎﮐﺩﻭﮐ ﺩﺭﻭﻣ ﺭﺩ ﻭ ﻩﺩﺭﮐ ﯽﺳﺭﺭﺑ ﺍﺭ ﻝﮑﺷﻣ PP - ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ</p>
+<p xml:lang="nob">ﻩﺭﻭﺎﺷﻣ ﻭ ﯽﻳﺎﻣﻧﻫﺍﺭ ﺍﺭ ﻪﻣﺯﻻ.ﺩﻧﮐ ﯽﻣ</p>
+<p xml:lang="nob">  <em type="bold"> .</em>  ﺕﻼﮑﺷﻣ ﻥﺎﺑﺯ ﻭ یﺭﺎﺗﻔﮔ<em type="bold"> </em></p>
+<p xml:lang="nob"><em type="bold">.   </em>  ﺕﻼﮑﺷﻣ ﯽﻟﻭﻣﻌﻣ یﺭﻳﮔﺩﺎﻳ ﺎﻳ ﺕﻼﮑﺷﻣ ﯽﺻﺻﺧﺗ <em type="bold">.   </em>  ﺕﻼﮑﺷﻣ ﻥﺩﻧﺍﻭﺧ ﻭ ﻥﺗﺷﻭﻧ <em type="bold">.</em>      ﻣﺕﻼﮑﺷ ﺭﺩ ﯽﺿﺎﻳﺭ <em type="bold">.  </em>   ﺕﻼﮑﺷﻣ یﺯﮐﺭﻣﺗ <em type="bold">.   </em>  ﺕﻼﮑﺷﻣ ﯽﻔﻁﺎﻋ ﻭ ﯽﻋﺎﻣﺗﺟﺍ <em type="bold">.    </em>  ﺕﻼﮑﺷﻣ یﺭﺎﺗﻓﺭ <em type="bold">.    </em>  ﺕﻼﮑﺷﻣ ﺩﻳﺩ ﻭ ﯽﻳﺍﻭﻧﺷ </p>
+<p xml:lang="nob"><em type="bold"> ؟ﺩﻳﺭﻳﮕﺑ ﺱﺎﻣﺗ PP –ﺎﻣﺷ ﻥﺍﻭﻧﻋ ﻪﺑ  ﻥﻳﺩﻟﺍﻭﻪﻧﻭﮕﭼ ﯽﻣ ﺩﻳﻧﺍﻭﺗ ﺎﺑ ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ </em></p>
+<p xml:lang="nob">ﺩ ﯽﻧﺍﺭﮕﻧ ﺕﺑﺎﺑ ﺯﺍ ﻪﮐ ﺕﺳﺍ ﺭﺗﻬﺑ/ ﺕﺷﺍﺩﻬﺑ ﺯﮐﺭﻣ ﺎﺑ ﻥﺎﺗﺩﻧﺯﺭﻓ ﺩﺭﻭﻣ ﺭ / کﺩﻭﮐ ﺩﻬﻣ  PP -ﻝﺑﻗ ﺯﺍ  ﺱﺎﻣﺗﺎﺑ ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ  .ﺩﻧﺭﻳﮕﺑ ﺱﺎﻣﺗ PP -ﻪﺳﺭﺩﻣ ﺕﺑﺣﺻ ﺩﻳﻧﮐ .ﺵﻧﺍﺩ ﯽﻧﺍﺯﻭﻣﺁ ﺯﻳﻧ ﻪﮐ ﺯﺗﺷﻳﺑ ﺯﺍ  ﻝﺎﺳ ﺭﻣﻋ ،ﺩﻧﺭﺍﺩ ﺩﻧﻧﺍﻭﺗﻳﻣ ﺎﺑ ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ  .ﺩﻧﮐ ﯽﻣ ﮏﻣﮐ ﺯﻳﻧ ﺩﻧﺗﺳﻫ ۀﺭﻭﺩ ﺵﺯﻭﻣﺁ ﻥﺗﻓﺭﮔ ﻪﺑ ﻝﻳﺎﻣ ﻪﮐ ﯽﻧﻻﺎﺳﮔﺭﺯﺑ ﻪﺑ PP -ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ</p>
+<p xml:lang="nob">PP -ﻡﻫ ﺹﺎﺧﺷﺍ ﻭ ﻡﻫ ﺎﻬﻧﺎﮔﺭﺍ )ﺩﻬﻣ ،کﺩﻭﮐ ﻪﺳﺭﺩﻣ ﻭ ﻩﺭﻳﻏ (ﯽﻣ ﺩﻧﻧﺍﻭﺗ ﺭﻭﻁﺑ ﺱﺎﻧﺷﺎﻧ ﺱﺎﻣﺗ ﻪﺗﻓﺭﮔ ﻭ ﺯﺍ ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ .ﺩﻧﺭﻳﮕﺑ ﯽﻳﺎﻣﻧﻫﺍﺭ</p>
+<p xml:lang="nob">.ﺩﺎﺗﺳﺭﻓ PP -   ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ ﻪﺑ ﺍﺭ ﺯﻭﻣﺁ ﺵﻧﺍﺩ / کﺩﻭﮐ ﻥﺍﻭﺗﻳﻣ ،ﺩﺷﺎﺑ PP - ﺭﮔﺍ ﺯﺎﻳﻧ ﻪﺑ ﮏﻣﮐ یﺭﺗﺷﻳﺑ ﺯﺍ ﻑﺭﻁ ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ</p>
+<p xml:lang="nob">ﻷﻭﻣﻌﻣ ﺯﻳﻧ ﺭﺎﮑﻧﻳﺍ  ﻥﺎﺗﺗﻣﺎﻗﺍ ﻝﺣﻣ ﻥﺎﺗﺳﺍ / یﺭﺍﺩﺭﻬﺷ ﯽﺗﻧﺭﺗﻧﻳﺍ ﺕﻳﺎﺳ ﻪﺑ ،ﺩﺭﻳﮔ ﯽﻣ ﺕﺭﻭﺻ ﻉﺎﺟﺭﺍ ﺹﻭﺻﺧﻣ ﻡﺭﻓ ﻥﺩﺭﮐ ﺭﭘ ﺎﺑ</p>
+<p xml:lang="nob">.ﺩﻳﺋﺎﻣﻧ ﻪﻌﺟﺍﺭﻣ .ﺩﻳﺭﻳﮕﺑ ﺱﺎﻣﺗ ﻪﺳﺭﺩﻣ / کﺩﻭﮐﺩﻬﻣ ﺎﺑ ﻉﺎﺟﺭﺍ ﻡﺭﻓ ﻥﻳﺍ ﻥﺩﺭﮐﺭﭘ ﺕﻬﺟ ﮏﻣﮐ ﻥﺗﻓﺭﮔ یﺍﺭﺑ</p>
+<p xml:lang="nob">     :ﺩﻧﺭﻳﮕﺑ ﺱﺎﻣﺗ PP –<em type="bold"> </em> ﺯﮐﺭﻣﺕﺎﻣﺩﺧ<em type="bold"> </em>ﺎﺑ ﺩﻧﻧﺍﻭﺗﻳﻣ ﻪﮐ یﺭﮕﻳﺩ یﺎﻬﻧﺎﻣﺯﺎﺳ<em type="bold">   </em></p>
+<p xml:lang="nob"><em type="bold">   .</em> ،کﺩﻭﮐ ﺩﻬﻣ.ﻥﻻﺎﺳﮔﺭﺯﺑ ﺵﺯﻭﻣﺁ ﺯﮐﺭﻣ ﻭ ﻪﺳﺭﺩﻣ <em type="bold">   .</em> ﺭﻳﺯ ﺯﻭﻣﺁ ﺵﻧﺍﺩ / کﺩﻭﮐ ﻪﮐ ﯽﺗﺭﻭﺻ ﺭﺩ ﻥﻳﺩﻟﺍﻭ ﺕﻳﺎﺿﺭ ﺎﺑ ﻥﺎﺗﺳﺭﺎﻣﻳﺑ ﻭ ﺕﺷﺍﺩﻬﺑ ﺯﮐﺭﻣ .ﺩﺷﺎﺑ ﻝﺎﺳ </p>
+<p xml:lang="nob">ﺵﻧﺍﺩ ﺯﻭﻣﺁ ﺎﻳ ﻥﻳﺩﻟﺍﻭ ﺩﻧﻧﺍﻭﺗﻳﻣ ﺯﺍ ﻪﺳﺭﺩﻣ ﺩﻧﻫﺍﻭﺧﺑ ﯽﺳﺭﺭﺑ یﺎﻫ ﻪﻣﺯﻻ ﺍﺭ ﻡﺎﺟﻧﺍ ﺩﻫﺩ یﺍﺭﺑ ﻪﮑﻧﻳﺍ ﺹﺧﺷﻣ ﺩﻭﺷ ﻪﮐ ﺎﻳﺁ ﺵﻧﺍﺩ ﺯﻭﻣﺁ ﺯﺎﻳﻧ</p>
+<p xml:lang="nob">ﻪﺑ  ﺱﻳﺭﺩﺗ ﻩژﻳﻭ ،ﺩﺭﺍﺩ ﻭ ﺭﺩ ﺕﺭﻭﺻ ﻝﺎﻣﺗﺣﺍ ﻪﭼ ﻉﻭﻧ ﯽﺷﺯﻭﻣﺁ ﻥﻳﺍ ﺵﻧﺍﺩ ﺯﻭﻣﺁ ﺯﺎﻳﻧ ﺩﺭﺍﺩ.</p>
+<p xml:lang="nob"><em type="bold">ﺷﺎﺑ ﯽﻣ ﻪﻧﻭﮕﭼ؟ﺩ  PP - ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ ﺭﺎﮐ ۀﻭﺣﻧ </em></p>
+<p xml:lang="nob">ﺩﺭﺍﺩ یﺭﺎﮑﻣﻫ ﺎﻬﻧﺁ ﺎﺑ ﺱﺭﺍﺩﻣ ﻭ ﺎﻬﮐﺩﻭﮐ ﺩﻬﻣ ﻥﺍﻭﺗﻳﻣ ﺩ ﻪﮐ ﺩﺭﺑ ﻡﺎﻧ ﺍﺭﮥﻧﻳﻣﺯ ﺭ  ﻝﻳﻬﺳﺗ   PP - ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ ﻪﮐ ﯽﻳﺎﻬﻧﺎﮔﺭﺍ ﺯﺍ  یﺎﻫﺯﺎﻳﻧ ﻭ ﯽﻧﻳﺑ ﺵﻳﭘ ﺱﺎﺳﺍ ﺭﺑ ﺕﺎﻧﺎﮑﻣﺍ ﮥﺋﺍﺭﺍﺯﻭﻣﺁ ﺵﻧﺍﺩ / کﺩﻭﮐ .ﺩﻧﮐ ﯽﻣ یﺭﺎﮑﻣﻫ ﺎﻬﻧﺁ ﺎﺑ ،ﯽﺳﺭﺭﺑ ﻩﺩﻧﻭﺭﭘ ﺭﺩ ﺯﮐﺭﻣ   ﺭﺩ ﻪﺳ ﻪﻠﺣﺭﻣ ﺕﺭﻭﺻ ﯽﻣ ﺩﺭﻳﮔ: PP - ﺕﺎﻣﺩﺧ</p>
+<p xml:lang="nob"><em type="bold">   ﻥﺩﺭﮐ ﯽﺳﺭﺭﺑ ﻭ ﻕﻳﻘﺣﺗ </em></p>
+<p xml:lang="nob">ﻩﺩﻧﻭﺭﭘ  ﯽﺷﺭﺍﺯﮔ /ﺍﺭ ﺕﻓﺎﻳﺭﺩ ،ﺩﺭﮐ ﺹﺧﺷﻣ ﯽﻣ ﺩﺩﺭﮔﺩ ﻪﮐ ﻥﻳﺩﻟﺍﻭ ﺎﺑ یﺭﺎﮑﻣﻫ ﻥﺎﺗﺳﮐﺩﻭﮐ PP –ﺄﺗﺩﻋﺎﻗ ﺱﭘ ﺯﺍ ﻪﮑﻧﻳﺍ ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ</p>
+<p xml:lang="nob">ﻥﺎﮑﻣﺍ ﺩﺣ ﺎﺗ PP -ﺎﻳ ،ﻪﺳﺭﺩﻣ ﻥﺎﻫﺍﻭﺧ ﻪﭼ ﻉﻭﻧ ﯽﮑﻣﮐ ﺩﻧﺗﺳﻫ. ﻥﺩﺭﮐ ﺕﺳﺗ ﻭ ﻩﺩﻫﺎﺷﻣ ،ﻪﺑﺣﺎﺻﻣ / ﻭﮕﺗﻔﮔ ﻕﻳﺭﻁ ﺯﺍ ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ .ﺩﺭﻭﺁ ﯽﻣ ﺕﺳﺩﺑ ﺯﻭﻣﺁ ﺵﻧﺍﺩ / کﺩﻭﮐ ﯽﺗﺁ ﻭ ﻝﺎﺣ یﺎﻫﺯﺎﻳﻧ ﺯﺍ ﯽﻠﻣﺎﮐ ﺭﻳﻭﺻﺗ ﻡﺎﺟﻧﺍ ﺩﺭﻳﮕﻳﻣ. PP –ﻥﻳﺍ ﻕﻳﻘﺣﺗ ﻭ ﯽﺳﺭﺭﺑ ﺭﺩ ،ﻥﺎﺗﺳﮐﺩﻭﮐ ﻪﺳﺭﺩﻣ ﺎﻳ ﺭﺩ ﺯﮐﺍﺭﻣ ﺕﺎﻣﺩﺧ</p>
+<p xml:lang="nob"><em type="bold">    ﻪﻳﺻﻭﺗ / ﻪﻧﺎﺳﺎﻧﺷﺭﺎﮐ ﯽﺑﺎﻳﺯﺭﺍﻥﺩﺭﮐ </em></p>
+<p xml:lang="nob"> ،ﻩﺩﺷ ﻡﺎﺟﻧﺍ یﺎﻬﻳﺳﺭﺭﺑ ﻭ ﺕﺎﻘﻳﻘﺣﺗ ﺱﺎﺳﺍ ﺭﺑﯽﺑﺗﮐ ﺵﺭﺍﺯﮔ ﮏﻳ ﺕﺭﻭﺻ ﻪﺑ یﺍ ﻪﻧﺎﺳﺎﻧﺷﺭﺎﮐ ﯽﺑﺎﻳﺯﺭﺍ PP –ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ ﻭ ﺩﻫﺩ ﯽﻣ ﻡﺎﺟﻧﺍ<em type="bold"> </em>یﺎﻬﻳﻧﻳﺑ ﺵﻳﭘ ﻥﺗﻓﺭﮔ ﺭﻅﻧ ﺭﺩ ﺎﺑ ﯽﺷﺯﻭﻣﺁ ﺕﻳﻌﺿﻭ ﺎﻳ ﻥﺎﺗﺳﮐﺩﻭﮐ ﺭﺩ ﯽﻟﺎﻣﺗﺣﺍ یﺎﻬﮑﻣﮐ  ﮥﺋﺍﺭﺍ ﻝﻳﻬﺳﺗ ﺩﺭﻭﻣ ﺭﺩ  ﻥﻳﺭﺗﻟﻭﺍﺩﺗﻣ .ﺩﻫﺩ ﯽﻣ ﻪﺋﺍﺭﺍ ﯽﺳﺎﻧﺷﺭﺎﮐ ۀﺭﻭﺎﺷﻣ PPTﻡﺎﭼﻧﺍ ﻩﺩﺷ یﺍﺭﺑ کﺩﻭﮐ  /ﺵﻧﺍﺩ ،ﺯﻭﻣﺁ ﻪﻳﺻﻭﺗ یﺎﻫ ﻪﻣﺯﻻ ﺍﺭ ﯽﻣ ﺩﻧﮐ .<em type="bold">  </em></p>
+<p xml:lang="nob">ﮏﻣﮐ ﯽﺑﺎﻳﺯﺭﺍ ﺭﺎﮑﻧﻳﺍ ﻉﻭﻧﺯﻭﻣﺁیﺍﺭﺑ ﺹﻭﺻﺧﻣ ﺱﻳﺭﺩﺗ ﻭ ﻥﺗﻓﺭ ﻪﺳﺭﺩﻣ ﯽﻧﻭﻧﺎﻗ ﻥﺳ ﺭﻳﺯ ﻥﺎﮐﺩﻭﮐ یﺍﺭﺑ ﻩژﻳﻭ ﯽﺷ ﻥﺍﺯﻭﻣﺁ ﺵﻧﺍﺩ .ﺩﺷﺎﺑ ﯽﻣ</p>
+<p xml:lang="nob"><em type="bold">      یﺭﻳﮕﻳﭘ </em></p>
+<p xml:lang="nob">/ ﯽﻳﺎﻣﻧﻫﺍﺭ ﻕﻳﺭﻁ ﺯﺍ ﻥﻳﻣﻠﻌﻣ ﻭ ﻥﺎﺗﺳﮐﺩﻭﮐ ﻥﺎﻧﮐﺭﺎﮐ ،ﻥﻳﺩﻟﺍﻭ ﺎﺑ ﻥﺩﺭﮐ ﻩﺭﻭﺎﺷﻣ.PP – ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ  ﺩﻧﺍﻭﺗﻳﻣ ﺕﻬﺟ ﺕﻳﺎﻣﺣ ﺎﺑ ﺭﻫ ﺵﻧﺍﺩ ﺯﻭﻣﺁ ﺕﺑﺣﺻ  PP – ،ﻪﺳﺭﺩﻣ ﻪﻠﺋﺳﻣ ﺍﺭ یﺭﻳﮕﻳﭘ ﯽﻣ ﺩﻧﮐ .ﺕﺎﻣﺩﺧ ﺯﮐﺭﻣ</p>
+<p xml:lang="nob">ﺩﺭﻭﻣ ﺭﺩ ﻭ ﺩﻧﮐﯽﺗﺁ ﯽﻟﺎﻣﺗﺣﺍ ﻝﺎﺳﺭﺍ .ﺩﻧﻧﮐ یﺭﻳﮕﻣﻳﻣﺻﺗ</p>
+<p xml:lang="nob">یﺎﻬﻓﺍﺭﮔﺍﺭﺎﭘ ﺭﺩ ﻪﻠﻣﺟ ﺯﺍ ،ﺕﺳﺍ ﻩﺩﺷ ﺭﮐﺫ ﺵﺭﻭﺭﭘ ﻭ ﺵﺯﻭﻣﺁ ﻥﻭﻧﺎﻗ ﺭﺩ :ﺭﻳﺯ.PP – ﻑﻳﺎﻅﻭ ﺯﮐﺭﻣ ﺕﺎﻣﺩﺧ</p>
+<p xml:lang="nob">ﻩژﻳﻭ ﺱﻳﺭﺩﺗ ﻥﺗﺷﺍﺩ ﻕﺣ § 5- 1</p>
+<p xml:lang="nob">ﻪﻧﺎﺳﺎﻧﺷﺭﺎﮐ ﯽﺑﺎﻳﺯﺭﺍ § 5- 3</p>
+<p xml:lang="nob">ﺩﺭﺍﻭﻣ یﺎﻬﻫﺩﻧﻭﺭﭘ ﯽﺳﺭﺭﺑ    ﻩژﻳﻭ ﺱﻳﺭﺩﺗ ﻥﺩﺍﺩ§ 5- 4</p>
+<p xml:lang="nob">ﯽﺗﻳﺑﺭﺗ ﺭﻭﻣﺍ ﻭ ﯽﺳﺎﻧﺷﻧﺍﻭﺭ ﺕﺎﻣﺩﺧ  § 5- 6</p>
+<p xml:lang="nob">ﺩﻧﺍ ﻩﺩﻳﺳﺭ ﻥﺗﻓﺭ ﻪﻳﺭﺩﻣ ﯽﻧﻭﻧﺎﻗ ﻥﺳ ﻪﺑ ﻪﮐ ﯽﻧﺎﮐﺩﻭﮐ یﺍﺭﺑ ﯽﺷﺭﻭﺭﭘ ۀژﻳﻭ ﮏﻣﮐ § 5- 7</p>
+</body></document>
